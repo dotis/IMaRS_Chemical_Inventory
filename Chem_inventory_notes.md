@@ -2,21 +2,21 @@
 
 New bottles not making it into Chematix:
 ### HCl(rec'd 1/11/23) - None are entered in Chematix
-0005PP
-0005PN
-0005PO
-0005PQ (this is now empty)
+1. 0005PP
+2. 0005PN
+3. 0005PO
+4. 0005PQ (this is now empty)
 
 
 ### MeOH (rec'd 4/13/23) - None are entered in Chematix
-0005Q1
-0005Q0
-0005PZ
-0005PY
-0005PX
-0005PW
-0005PV
-0005PU
+1. 0005Q1
+2. 0005Q0
+3. 0005PZ
+4. 0005PY
+5. 0005PX
+6. 0005PW
+7. 0005PV
+8. 0005PU
 
 
 Moved to MSL:

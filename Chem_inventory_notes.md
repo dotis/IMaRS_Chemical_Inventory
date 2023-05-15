@@ -20,9 +20,9 @@ New bottles not making it into Chematix:
 
 
 Moved to MSL:
-MSL 225G: #0005PZ
-MSL Fire Cabinet: #0005PY
-HCl MSL 225G: #0005PN
+1. MSL 225G: #0005PZ
+2. MSL Fire Cabinet: #0005PY
+3. HCl MSL 225G: #0005PN
 
 
 Notes on Spill Kits:

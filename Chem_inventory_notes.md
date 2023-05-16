@@ -26,7 +26,7 @@ New bottles not making it into Chematix:
 
 
 ### Removed from inventory on Chematix:
-188555 (5/16/23)
+HITS code 188555 (5/16/23)
 
 
 

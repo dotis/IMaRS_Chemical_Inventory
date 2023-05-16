@@ -1,4 +1,4 @@
-## IMaRS_Chemical_Iventory
+## IMaRS_Chemical_Inventory
 This is a general repo for information on IMaRS Lab chemical inventory
 
 ## Repos in box for Chematix:

@@ -19,13 +19,24 @@ New bottles not making it into Chematix:
 8. 0005PU
 
 
-Moved to MSL:
+### Moved to MSL:
 1. MSL 225G: #0005PZ
 2. MSL Fire Cabinet: #0005PY
 3. HCl MSL 225G: #0005PN
 
 
-Notes on Spill Kits:
+### Removed from inventory on Chematix:
+188555 (5/16/23)
+
+
+
+
+
+
+
+
+### Notes on Spill Kits:
+
 A chemical spill kit should be stored near each satellite accumulation area for use in the event of a spill. Each satellite accumulation area has different chemical spill kit needs depending on the type and quantity of hazardous materials used. In order to determine specific spill kit components, consult the safety data sheets of the chemicals used in the area. A basic spill kit should contain:
 
 1. A five-gallon plastic bucket

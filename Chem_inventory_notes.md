@@ -7,6 +7,10 @@ New bottles not making it into Chematix:
 3. 0005PO
 4. 0005PQ (this is now empty)
 
+These were put into Chematix by Ethan Goddard, but were assigned to the Hu lab. He will transfer them back to us.
+
+
+
 
 ### MeOH (rec'd 4/13/23) - None are entered in Chematix
 1. 0005Q1
@@ -18,6 +22,7 @@ New bottles not making it into Chematix:
 7. 0005PV
 8. 0005PU
 
+These will be put into Chematix by Ethan. Ethan now has a spreadsheet to request barcodes. Once Sherwood's receiver access is setup in Chematix, barcode requests can go to him.
 
 ### Moved to MSL:
 1. MSL 225G: #0005PZ

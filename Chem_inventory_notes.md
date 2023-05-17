@@ -12,7 +12,7 @@ These were put into Chematix by Ethan Goddard, but were assigned to the Hu lab. 
 
 
 
-### MeOH (rec'd 4/13/23) - None are entered in Chematix
+### MeOH (rec'd 4/13/23) - Now in Chematix
 1. 0005Q1
 2. 0005Q0
 3. 0005PZ*

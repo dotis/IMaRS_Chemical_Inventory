@@ -25,9 +25,9 @@ These were put into Chematix by Ethan Goddard, but were assigned to the Hu lab. 
 ## Ethan now has a spreadsheet to request barcodes. Once Sherwood's receiver access is setup in Chematix, barcode requests can go to him.
 
 ### Moved to MSL:
-1. MSL 225G: #0005PZ
-2. MSL Fire Cabinet: #0005PY
-3. HCl MSL 225G: #0005PN
+1. MSL 225G: #0005PZ (change entered in Chematix)
+2. MSL Fire Cabinet: #0005PY (change entered in Chematix)
+3. HCl MSL 225G: #0005PN (change will be entered in Chematix once transfer from Hu lab is complete)
 
 
 ### Removed from inventory on Chematix:

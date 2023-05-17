@@ -1,7 +1,7 @@
 ## IMaRS Chemical Inventory: Information and Notes
 
 New bottles not making it into Chematix:
-### HCl(rec'd 1/11/23) - None are entered in Chematix
+### HCl(rec'd 1/11/23) - These are in Chematix but listed under the Hu lab
 1. 0005PP
 2. 0005PN*
 3. 0005PO
@@ -22,7 +22,7 @@ These were put into Chematix by Ethan Goddard, but were assigned to the Hu lab. 
 7. 0005PV
 8. 0005PU
 
-These will be put into Chematix by Ethan. Ethan now has a spreadsheet to request barcodes. Once Sherwood's receiver access is setup in Chematix, barcode requests can go to him.
+## Ethan now has a spreadsheet to request barcodes. Once Sherwood's receiver access is setup in Chematix, barcode requests can go to him.
 
 ### Moved to MSL:
 1. MSL 225G: #0005PZ

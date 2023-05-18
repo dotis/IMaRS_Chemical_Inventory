@@ -1,22 +1,19 @@
 ## IMaRS Chemical Inventory: Information and Notes
 
 New bottles not making it into Chematix:
-### HCl(rec'd 1/11/23) - These are in Chematix but listed under the Hu lab
+### HCl(rec'd 1/11/23) - Now in Chematix
 1. 0005PP
-2. 0005PN*
+2. 0005PN (MSL225G)
 3. 0005PO
-4. 0005PQ (this is now empty)
 
 These were put into Chematix by Ethan Goddard, but were assigned to the Hu lab. He will transfer them back to us.
-
-
 
 
 ### MeOH (rec'd 4/13/23) - Now in Chematix
 1. 0005Q1
 2. 0005Q0
-3. 0005PZ*
-4. 0005PY*
+3. 0005PZ (MSL225G)
+4. 0005PY (MSL stairway cabinet)
 5. 0005PX
 6. 0005PW
 7. 0005PV
@@ -24,15 +21,9 @@ These were put into Chematix by Ethan Goddard, but were assigned to the Hu lab. 
 
 ## Ethan now has a spreadsheet to request barcodes. Once Sherwood's receiver access is setup in Chematix, barcode requests can go to him.
 
-### Moved to MSL:
-1. MSL 225G: #0005PZ (change entered in Chematix)
-2. MSL Fire Cabinet: #0005PY (change entered in Chematix)
-3. HCl MSL 225G: #0005PN (change will be entered in Chematix once transfer from Hu lab is complete)
-
-
 ### Removed from inventory on Chematix:
-HITS code 188555 (5/16/23)
-
+MeOH - HITS code 188555 (5/16/23)
+HCl - USFC005PQ (5/17/23)
 
 
 

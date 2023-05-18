@@ -23,6 +23,7 @@ Ethan now has a spreadsheet to request barcodes. Sherwood's receiver access is n
 
 ### Removed from inventory on Chematix:
 MeOH - HITS code 188555 (5/16/23)
+
 HCl - USFC005PQ (5/17/23)
 
 

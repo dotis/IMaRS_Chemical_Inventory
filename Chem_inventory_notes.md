@@ -19,7 +19,7 @@ These were put into Chematix by Ethan Goddard, but were assigned to the Hu lab. 
 7. 0005PV
 8. 0005PU
 
-## Ethan now has a spreadsheet to request barcodes. Sherwood's receiver access is now setup in Chematix, so barcode requests can go to him (use spreadsheet to make things easier if chemicals not delivered to him).
+Ethan now has a spreadsheet to request barcodes. Sherwood's receiver access is now setup in Chematix, so barcode requests can go to him (use spreadsheet to make things easier if chemicals not delivered to him).
 
 ### Removed from inventory on Chematix:
 MeOH - HITS code 188555 (5/16/23)

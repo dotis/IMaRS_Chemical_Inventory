@@ -6,8 +6,11 @@ New bottles not making it into Chematix:
 2. 0005PN (MSL225G)
 3. 0005PO
 
-These were put into Chematix by Ethan Goddard, but were assigned to the Hu lab. He will transfer them back to us.
-
+4x 4L 10% HCl rec'd 5/21 now in Chematix (bottles are in KRC 3117)
+1. USFC001EQR 
+2. USFC001EQR 
+3. USFC001EQT
+4. USFC001EQU 
 
 ### MeOH (rec'd 4/13/23) - Now in Chematix
 1. 0005Q1
